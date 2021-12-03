@@ -31,3 +31,11 @@ for(let item of array){
     document.body.appendChild(div);
 }
 
+let classe = {
+    perso1 : Corinne,
+    perso2 : Nicolas,
+    perso3 : James,
+    perso4 : Frodon,
+    perso5 : Legolas
+}
+
